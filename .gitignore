@@ -1,1 +1,8 @@
-
+#ignore inputs folder
+inputs/
+#ignore references folder
+references/
+#ignore outputs folder
+outputs/
+#ignore results folder
+results/
